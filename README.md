@@ -3,7 +3,12 @@
 <img width=260 align="right" style="border-radius:10px;" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e4780o8zol6pafo35ivhufupefq29nrtl27ky2iz4kj&ep=v1_gifs_search&rid=200.webp&ct=g" alt="code" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeganmahi&label=Profile%20views&color=0e75b6&style=flat" alt="jeganmahi" /> </p>
 
-<p align="left"> <a href="https://www.instagram.com/jithujegan/" target="blank"><img src="https://img.shields.io/instagram/follow/Jegan?logo=instagram&style=for-the-badge" alt="jithujegan" /></a> </p>
+<p align="left">
+  <a href="https://www.instagram.com/jithujegan/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow%20Jegan-E4405F?logo=instagram&style=for-the-badge" alt="jithujegan" />
+  </a>
+</p>
+
 
 - 🔭 I’m currently working on **Full Stack Development**
 
