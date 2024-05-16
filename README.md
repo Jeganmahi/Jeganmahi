@@ -16,6 +16,8 @@
 
 - 💬 Ask me about DSA
 
+- It's not a bug it's a feature
+
 - 📫 How to reach me **jeganvc2004@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
