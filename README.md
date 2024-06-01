@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **Full Stack Development**
 
-- 🌱 I’m currently learning **NEXTJs**
+- 🌱 I’m currently learning **NextJs**
 
 - 💬 Ask me about DSA
 
