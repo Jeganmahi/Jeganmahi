@@ -1,4 +1,4 @@
-<h1 align="center">Hi  👋, I'm  Jegan</h1>
+<h1 align="center">Hi  👋, I'm Jegan</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 <img width=260 align="right" style="border-radius:10px;" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e4780o8zol6pafo35ivhufupefq29nrtl27ky2iz4kj&ep=v1_gifs_search&rid=200.webp&ct=g" alt="code" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeganmahi&label=Profile%20views&color=0e75b6&style=flat" alt="jeganmahi" /> </p>
